@@ -155,7 +155,7 @@ Estado: ✅ correcto · ❌ incidencia · ⏳ pendiente
 
 Chats de IA utilizados durante el desarrollo:
 
-- [Chat de desarrollo (ChatGPT)](https://chatgpt.com/s/t_6b05e67868c48191b06d92aa460b6001)
+- [Chat de desarrollo (ChatGPT)](https://chatgpt.com/share/6b05eed2-4ccc-83eb-9c10-dc71f11d1fe3)
 
 ---
 
